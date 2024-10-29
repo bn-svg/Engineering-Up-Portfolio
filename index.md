@@ -1,9 +1,9 @@
-# Project Name/Title Goes Here
-This will serve as a brief description of your projects. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make her/him want to read more.
+# Rc car Project 
+This will be the my first and best RC Car 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Your Name| Current Highschool | Mechanical Engineering | Senior 
+|Benjamin | vertus Highschool | Mechanical Engineering | Senior 
 
 ![Relevant Name](https://live.staticflickr.com/65535/52852175615_c29c92411d_c.jpg)
 
